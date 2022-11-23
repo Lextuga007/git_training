@@ -1,3 +1,4 @@
+MAKING CHANGES
 # git_training
 How to get started:
 
